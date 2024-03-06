@@ -4,7 +4,7 @@ Will Betts Cope Personal Project. Fully functional evolved tic-tac-toe game with
 ## Installation
 1. Follow the download and installation instructions for Processing version 3.5.4 (https://processing.org/download)
 2. Download all code files from this repository and place them in a folder named "TicTacToe_Evolved"
-3. Place that folder in the same location as Processing
+3. Place that folder in the same location as the Processing folder
 
 ## Usage
 1. Open file 'TicTacToe_Evolved.pde' in Processing
