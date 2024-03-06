@@ -8,7 +8,7 @@ Will Betts Cope Personal Project. Fully functional evolved tic-tac-toe game with
 
 ## Usage
 1. Open file 'TicTacToe_Evolved.pde' in Processing
-  - This file connects to 'Boards.pde,' 'Legality_Check,' 'Moves.pde,' 'Piece_Play.pde,' and 'Win_Detection.pde' via imports
+  - This file connects to 'Boards.pde,' 'Legality_Check.pde,' 'Moves.pde,' 'Piece_Play.pde,' and 'Win_Detection.pde' via imports
 2. Press 'Run'
 
 ## Interface 
